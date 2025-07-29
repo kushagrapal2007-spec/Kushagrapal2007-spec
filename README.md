@@ -1,6 +1,7 @@
-## Hi there 👋
-
-<!--
+# Kushagra Pal
+## Dehradun 
+### 1st Year student 
+*hii 
 **kushagrapal2007-spec/Kushagrapal2007-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**HELLO**
+  *WASSUP*
+  | NAME | ROLE | GITHUB USERNAME |
+  |:------|:------:|-----------------:|
+  |Santosh|Task lead| @santoshpanda1995|
+[UPES](https://www.upes.ac.in)
